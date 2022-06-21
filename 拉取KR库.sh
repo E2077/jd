@@ -3,3 +3,4 @@
 #new Env('拉取 KR库');
 echo "开始拉库"
 ql repo https://github.com/KingRan/KR.git "jd_|jx_|jdCookie" "jd_CheckCK|activity|backUp" "^jd[^_]|USER|utils|function|sign|sendNotify|ql|JDJR"
+echo "拉库完成,如果失败重新运行一下"
