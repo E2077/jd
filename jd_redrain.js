@@ -13,7 +13,7 @@ github:https://github.com/msechen/jdrain
 ==============Quantumult X==============
 [task_local]
 #整点京豆雨
-0 * * * * https://raw.githubusercontent.com/msechen/jdrain/main/jd_redrain.js, tag=整点京豆雨, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true
+7 7 7 7 7 https://raw.githubusercontent.com/msechen/jdrain/main/jd_redrain.js, tag=整点京豆雨, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true
 ==============Loon==============
 [Script]
 cron "0 * * * *" script-path=https://raw.githubusercontent.com/msechen/jdrain/main/jd_redrain.js,tag=整点京豆雨
