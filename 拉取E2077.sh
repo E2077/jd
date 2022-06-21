@@ -7,4 +7,4 @@ new Env('拉取E2077');
 COMMENT
 
 
-ql repo https://github.com/E2077/jd.git " "
+ql repo https://github.com/E2077/jd.git "" "" "^jd[^_]|USER|utils|function|sign|sendNotify|ql|JDJR" ""
