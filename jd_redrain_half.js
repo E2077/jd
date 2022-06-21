@@ -6,10 +6,10 @@ by：msechen 感谢小手大佬修改接口
 ==============Quantumult X==============
 [task_local]
 #半点京豆雨
-30 21,22 * * * https://raw.githubusercontent.com/msechen/jdrain/main/jd_live_redrain.js, tag=半点京豆雨, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true
+7 7 7 7 7  https://raw.githubusercontent.com/msechen/jdrain/main/jd_live_redrain.js, tag=半点京豆雨, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true
 ==============Loon==============
 [Script]
-cron "30 21,22 * * *" script-path=https://raw.githubusercontent.com/msechen/jdrain/main/jd_redrain_half.js,tag=半点京豆雨
+cron "7 7 7 7 7 " script-path=https://raw.githubusercontent.com/msechen/jdrain/main/jd_redrain_half.js,tag=半点京豆雨
 ================Surge===============
 半点京豆雨 = type=cron,cronexp="30 21,22 * * *",wake-system=1,timeout=3600,script-path=https://raw.githubusercontent.com/msechen/jdrain/main/jd_redrain_half.js
 ===============小火箭==========
