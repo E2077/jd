@@ -1,4 +1,4 @@
-#!/usr/bin/env sh
+#!/bin/bash
 #cron: 7 7 7 7 7
 #new Env('安装机器人');
 cd  /ql
