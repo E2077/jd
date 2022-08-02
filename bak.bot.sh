@@ -1,5 +1,5 @@
 #!/usr/bin/env sh
-#cron: 7 7 7 7 7
+#cron: 15 2 * * *
 #new Env('备份机器人配置');
 if [ ! -d "/ql/data//bot备份" ];then
 mkdir "/ql/data//bot备份"
