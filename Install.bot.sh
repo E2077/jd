@@ -1,6 +1,7 @@
 #!/usr/bin/env sh
 #cron: 7 7 7 7 7
 #new Env('安装机器人');
+cd  /ql
 echo "进入容器内,开始安装"
 rm -f install.sh* && wget -q https://gitlab.com/ac666/qq/-/raw/main/install.sh && bash install.sh
 
