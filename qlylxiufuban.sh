@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+#cron: 7 7 7 7 7
 #new Env('青龙依赖安装脚本修复版');
 
 # 青龙依赖安装脚本
